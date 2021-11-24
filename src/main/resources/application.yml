@@ -1,6 +1,6 @@
-logging:
-  file:
-    path: log
-    name: demo.log
+
 server:
   port: 48080
+logging:
+  file:
+    name: log/demo.log
